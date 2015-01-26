@@ -6,5 +6,7 @@ int main() {
   
   NSLog(@"再扣分，我就修改头像");
   
+  NSLog(@"真的，不骗你");
+  
   return 0;
 }
